@@ -1,6 +1,0 @@
-# ✅ .env (Optional Example — Not required in this project unless API keys are added)
-```
-# Example format for future use
-OPENWEATHER_API_KEY=your_openweather_api_key
-EMAIL_PASSWORD=your_email_app_password
-```
